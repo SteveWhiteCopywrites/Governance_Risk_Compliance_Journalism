@@ -12,4 +12,4 @@ Interview with David Carroll, the US professor whose legal battle with Cambridge
 Read the full article:  
 https://www.grcworldforums.com/governance-risk-and-compliance/interview-behind-the-great-hack-with-david-carroll/402.article
 
-![Article header](TGH.png)
+![Article header](TGH_header.png)
