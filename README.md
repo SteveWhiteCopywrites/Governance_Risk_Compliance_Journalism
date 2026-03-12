@@ -21,8 +21,6 @@ https://www.grcworldforums.com/governance-risk-and-compliance/nis2-directive-str
 Reporting on the UK debate over a potential digital pound and the privacy implications of central bank digital currency.  
 https://www.grcworldforums.com/governance-risk-and-compliance/privacy-concerns-slowing-uk-decision-on-digital-cash/9278.article
 
-## Interviews
-
 ### Interview: Behind The Great Hack with David Carroll
 
 Publication: GRC World Forums  
