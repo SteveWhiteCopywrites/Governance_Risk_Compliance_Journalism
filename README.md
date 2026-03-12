@@ -39,3 +39,16 @@ Read the full article:
 https://www.grcworldforums.com/information-security/meet-the-expert-caro-robson-to-speak-at-risk-london/8797.article
 
 ![Article header](caro_header.png)
+
+### Meet the Expert: Women in GRC Speaker, Amii Barnard-Bahn
+
+Publication: GRC World Forums  
+Date: November 2021  
+Role: Journalist / writer  
+
+Profile feature introducing executive coach, strategic advisor and keynote speaker Amii Barnard-Bahn ahead of her appearance at the Women in Governance, Risk and Compliance (GRC) Forum. The article explores her career, leadership expertise and perspectives on governance, ethics and organisational culture within modern risk management. :contentReference[oaicite:0]{index=0}
+
+Read the full article:  
+https://www.grcworldforums.com/meet-the-expert-women-in-grc-speaker-amii-barnard-bahn/3371.article
+
+![Article header](amii_header.png)
