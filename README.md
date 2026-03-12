@@ -104,3 +104,16 @@ Read the full article:
 https://www.grcworldforums.com/banking-financial-services-and-insurance-bfsi/ai-aml-regulations-and-aml-monitoring-centre-stage-at-fincrime-focus-anti-money-laundering/5303.article
 
 ![Article header](AML_header.png)
+
+### AI Leading to Reduction in Staff Numbers
+
+Publication: GRC World Forums  
+Date: April 2024  
+Role: Journalist / writer  
+
+News feature examining how the growing adoption of artificial intelligence is expected to reshape the workforce within cybersecurity and information-security teams. Drawing on industry research and expert commentary, the article explores how automation, machine learning and AI-driven monitoring tools are changing organisational structures and potentially reducing the number of staff required for certain security and compliance functions.
+
+Read the full article:  
+https://www.grcworldforums.com/information-security/ai-leading-to-reduction-in-staff-numbers/9456.article
+
+![Article header](ai_staff_reduction_header.png)
